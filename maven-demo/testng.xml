@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sample Suite" verbose="1" >
+  <test name="Smoke Test" >
+    <classes>
+       <class name="testcases.Release_2018_01_Test" />
+    </classes>
+  </test>
+  <test name="Regression Test">
+    <classes>
+    </classes>
+  </test>
+</suite>
